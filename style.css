@@ -1,0 +1,309 @@
+input[type="text"]{
+    height: 70px;   
+    font-size: 30px;
+    margin-left: 30px;
+   }
+   #teach-one{
+      height: 90px;
+      width: 103px;
+      background-color: white;
+      border:none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+      margin-left: 45px;
+   }
+   #teach-one:hover{
+       opacity: 100%;
+   }
+   #teach-two{
+      height: 100px;
+      width: 107px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+       margin-left: 45px;
+      transform:translateY(10px);
+   }
+   #teach-two:hover{
+       opacity: 100%;
+   }
+
+
+   #teach-three{
+      height: 92px;
+      width: 107px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+     margin-left: 45px;
+      transform:translateY(3px);
+   }
+   #teach-three:hover{
+       opacity: 100%;
+   }
+
+   #teach-four{
+      height: 114px;
+      width: 107px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+      margin-left: 45px;
+      transform:translateY(13px);
+   }
+   #teach-four:hover{
+       opacity: 100%;
+   }
+
+   #teach-five{
+      height: 101px;
+      width: 111px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+       margin-left: 45px;
+   }
+   #teach-five:hover{
+       opacity: 100%;
+   }
+
+   #teach-six{
+      height: 97px;
+      width: 97px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+       margin-left: 45px;
+   }
+   #teach-six:hover{
+       opacity: 100%;
+   }
+
+   #teach-seven{
+      height: 94px;
+      width: 99px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+       margin-left: 50px;
+   }
+   #teach-seven:hover{
+       opacity: 100%;
+   }
+
+   #teach-eight{
+      height: 92px;
+      width: 95px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+      margin-left: 45px;
+      transform: translateX(5px);
+   }
+   #teach-eight:hover{
+       opacity: 100%;
+   }
+
+   #teach-nine{
+      height: 75px;
+      width: 72px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+       margin-left: 80px;
+   }
+   #teach-nine:hover{
+       opacity: 100%;
+   }
+
+   #teach-ten{
+      height: 85px;
+      width: 101px;
+      background-color: white;
+      border: none;
+      opacity: 70%;
+      cursor: pointer;
+      transition: 1s;
+      transform: translateX(25px);
+       margin-left: 50px;
+   }
+   #teach-ten:hover{
+       opacity: 100%;
+   }
+   h3{
+       margin-left: 30px;
+   }
+
+   #teaching-display{
+       color: blue;
+       transform:translateX(20%);
+       font-size: 50px;
+   }
+
+   #net-one{
+    height: 90px;
+    width: 103px;
+    background-color: white;
+    border:none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+    margin-left: 45px;
+ }
+ #net-one:hover{
+     opacity: 100%;
+ }
+ #net-two{
+    height: 100px;
+    width: 107px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+     margin-left: 45px;
+    transform:translateY(10px);
+ }
+ #net-two:hover{
+     opacity: 100%;
+ }
+
+
+ #net-three{
+    height: 92px;
+    width: 107px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+   margin-left: 45px;
+    transform:translateY(3px);
+ }
+ #net-three:hover{
+     opacity: 100%;
+ }
+
+ #net-four{
+    height: 114px;
+    width: 107px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+    margin-left: 45px;
+    transform:translateY(13px);
+ }
+ #net-four:hover{
+     opacity: 100%;
+ }
+
+ #net-five{
+    height: 101px;
+    width: 111px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+     margin-left: 45px;
+ }
+ #net-five:hover{
+     opacity: 100%;
+ }
+
+ #net-six{
+    height: 97px;
+    width: 97px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+     margin-left: 45px;
+ }
+ #net-six:hover{
+     opacity: 100%;
+ }
+
+ #net-seven{
+    height: 94px;
+    width: 99px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+     margin-left: 50px;
+ }
+ #net-seven:hover{
+     opacity: 100%;
+ }
+
+ #net-eight{
+    height: 92px;
+    width: 95px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+    margin-left: 45px;
+    transform: translateX(5px);
+ }
+ #net-eight:hover{
+     opacity: 100%;
+ }
+
+ #net-nine{
+    height: 75px;
+    width: 72px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+     margin-left: 80px;
+ }
+ #net-nine:hover{
+     opacity: 100%;
+ }
+
+ #net-ten{
+    height: 85px;
+    width: 101px;
+    background-color: white;
+    border: none;
+    opacity: 70%;
+    cursor: pointer;
+    transition: 1s;
+    transform: translateX(25px);
+     margin-left: 50px;
+ }
+ #net-ten:hover{
+     opacity: 100%;
+ }
+
+ #neting-display{
+    color: blue;
+    transform:translateX(20%);
+    font-size: 50px;
+}
